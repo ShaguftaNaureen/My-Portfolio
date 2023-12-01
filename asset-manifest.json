@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.4249daf6.css",
+    "main.js": "/My-Portfolio/static/js/main.f3bb2694.js",
+    "static/media/dp.png": "/My-Portfolio/static/media/dp.e16b5171415723d69a4e.png",
+    "static/media/shagufta.PNG": "/My-Portfolio/static/media/shagufta.bc854349bc5eeb867a10.PNG",
+    "static/media/shagufta2-removebg-preview.png": "/My-Portfolio/static/media/shagufta2-removebg-preview.0743774f800ca41e583b.png",
+    "static/media/nobg.png": "/My-Portfolio/static/media/nobg.ed43a42a0abe00ce5b8d.png",
+    "static/media/SHAGUFTA NAUREEN Z.pdf": "/My-Portfolio/static/media/SHAGUFTA NAUREEN Z.00b7665c014c90bbf508.pdf",
+    "static/media/memory4.png": "/My-Portfolio/static/media/memory4.34f4584130fb697fe4e4.png",
+    "static/media/memory1.png": "/My-Portfolio/static/media/memory1.08a33877c2776b5beb9c.png",
+    "static/media/memory3.png": "/My-Portfolio/static/media/memory3.1307949af9baf2fe63db.png",
+    "static/media/game.jpg": "/My-Portfolio/static/media/game.ddb3314c972def0b0361.jpg",
+    "static/media/robo.png": "/My-Portfolio/static/media/robo.1d1e728187fe8dba713f.png",
+    "static/media/memory2.png": "/My-Portfolio/static/media/memory2.ba3b25cd8a95bc84ca52.png",
+    "static/media/comingsoon.png": "/My-Portfolio/static/media/comingsoon.7a6cb5ae28e7c988585d.png",
+    "static/media/crypto.png": "/My-Portfolio/static/media/crypto.9fd05bfe6198cc6521cd.png",
+    "static/media/airbnblogo1.jpeg": "/My-Portfolio/static/media/airbnblogo1.0463bd8a2733bd6ce395.jpeg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.4249daf6.css.map": "/My-Portfolio/static/css/main.4249daf6.css.map",
+    "main.f3bb2694.js.map": "/My-Portfolio/static/js/main.f3bb2694.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4249daf6.css",
+    "static/js/main.f3bb2694.js"
+  ]
+}
